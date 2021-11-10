@@ -8,4 +8,4 @@ dependencies:
   - pip:
     - pandas
     - matplotlib
-    - scikitlearn
+    - sklearn
